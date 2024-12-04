@@ -1,0 +1,10 @@
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\int2\bin\Debug\int2.exe.config
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\int2\bin\Debug\int2.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\int2\bin\Debug\int2.pdb
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\int2\obj\Debug\int2.Form1.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\int2\obj\Debug\int2.Properties.Resources.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\int2\obj\Debug\int2.csproj.GenerateResource.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\int2\obj\Debug\int2.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\int2\obj\Debug\int2.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\int2\obj\Debug\int2.pdb
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\int2\obj\Debug\int2.csproj.AssemblyReference.cache

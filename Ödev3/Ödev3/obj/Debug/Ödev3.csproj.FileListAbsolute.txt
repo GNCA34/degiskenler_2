@@ -1,0 +1,10 @@
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev3\Ödev3\bin\Debug\Ödev3.exe.config
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev3\Ödev3\bin\Debug\Ödev3.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev3\Ödev3\bin\Debug\Ödev3.pdb
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev3\Ödev3\obj\Debug\Ödev3.csproj.AssemblyReference.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev3\Ödev3\obj\Debug\Ödev3.Form1.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev3\Ödev3\obj\Debug\Ödev3.Properties.Resources.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev3\Ödev3\obj\Debug\Ödev3.csproj.GenerateResource.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev3\Ödev3\obj\Debug\Ödev3.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev3\Ödev3\obj\Debug\Ödev3.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev3\Ödev3\obj\Debug\Ödev3.pdb

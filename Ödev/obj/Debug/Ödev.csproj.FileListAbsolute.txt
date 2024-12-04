@@ -1,0 +1,10 @@
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev\bin\Debug\Ödev.exe.config
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev\bin\Debug\Ödev.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev\bin\Debug\Ödev.pdb
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev\obj\Debug\Ödev.csproj.AssemblyReference.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev\obj\Debug\Ödev.Form1.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev\obj\Debug\Ödev.Properties.Resources.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev\obj\Debug\Ödev.csproj.GenerateResource.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev\obj\Debug\Ödev.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev\obj\Debug\Ödev.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\Ödev\obj\Debug\Ödev.pdb
